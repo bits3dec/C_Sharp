@@ -1,0 +1,14 @@
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Preetom\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Study\Preetom Workspace\C_sharp\Threadin\Threading Basics\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

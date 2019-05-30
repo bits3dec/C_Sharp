@@ -1,0 +1,7 @@
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Study\Preetom Workspace\C_sharp\Threading\Compute-Bound Asynchrnonous Operations\Task\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,9 @@
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\bin\Debug\netstandard2.0\IEnumerable_IEnumerator.deps.json
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\bin\Debug\netstandard2.0\IEnumerable_IEnumerator.dll
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\bin\Debug\netstandard2.0\IEnumerable_IEnumerator.pdb
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.csprojAssemblyReference.cache
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.AssemblyInfoInputs.cache
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.AssemblyInfo.cs
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.dll
+D:\Study\Preetom Workspace\C_sharp\ConsoleApp1\IEnumerable_IEnumerator\obj\Debug\netstandard2.0\IEnumerable_IEnumerator.pdb

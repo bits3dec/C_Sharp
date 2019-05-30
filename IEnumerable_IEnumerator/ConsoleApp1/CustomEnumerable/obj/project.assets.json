@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Preetom\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Study\\Preetom Workspace\\C_sharp\\IEnumerable_IEnumerator\\ConsoleApp1\\CustomEnumerable\\CustomEnumerable.csproj",
+      "projectName": "CustomEnumerable",
+      "projectPath": "D:\\Study\\Preetom Workspace\\C_sharp\\IEnumerable_IEnumerator\\ConsoleApp1\\CustomEnumerable\\CustomEnumerable.csproj",
+      "packagesPath": "C:\\Users\\Preetom\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\Preetom Workspace\\C_sharp\\IEnumerable_IEnumerator\\ConsoleApp1\\CustomEnumerable\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Preetom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}
