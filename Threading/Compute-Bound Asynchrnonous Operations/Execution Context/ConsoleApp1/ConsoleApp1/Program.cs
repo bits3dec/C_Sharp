@@ -15,14 +15,14 @@ namespace ConsoleApp1
             CallContext.LogicalSetData("Name", "Preetom");
 
             //Initiate a work to be done by a thread pool thread
-            //The thread pool thread CAN access the logical call context data
+            //The thread pool thread CAN access the logical call context data of the main thread
             ThreadPool.QueueUserWorkItem((state) => Console.WriteLine("Name = {0}", CallContext.LogicalGetData("Name")));
 
             //Now suppress the flowing of the Main thread's execution context
             ExecutionContext.SuppressFlow();
 
             //Initiate some other work to be done by a thread pool thread
-            //The thread pool thread CANNOT access the logical call context data
+            //The thread pool thread CANNOT access the logical call context data of the main thread
             ThreadPool.QueueUserWorkItem((state) => Console.WriteLine("Name = {0}", CallContext.LogicalGetData("Name")));
 
             //Restore the flowing of the Main thread's execution context in case
