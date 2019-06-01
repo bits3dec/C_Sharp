@@ -13,7 +13,7 @@ namespace ConsoleApp4
         {
             List<int> integerList = Enumerable.Range(1, 10).ToList();
             
-            Console.WriteLine("Default parallelism i.e. default degree of concurrency (");
+            Console.WriteLine("Default parallelism i.e. default degree of concurrency");
             Parallel.ForEach(integerList, item =>
             {
                 Console.WriteLine($"item = {item}, threadID = {Thread.CurrentThread.ManagedThreadId}");
