@@ -13,7 +13,7 @@ namespace ConsoleApp2
         {
             CancellationTokenSource cts = new CancellationTokenSource();
 
-            Task<int> task = Task.Run(() => Sum(1000000000, cts.Token), cts.Token);
+            Task<int> task = Task.Run(() => Sum(10000000, cts.Token), cts.Token);
 
             //Sometime later cancel the CancelltionTokenSource to cancel the task
             cts.Cancel();//This is Asynchronous request, the task may have completed already

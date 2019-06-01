@@ -14,7 +14,7 @@ namespace ConsoleApp4
                 {
                     var res = new int[3];
 
-                    new Task(() => res[0] = Sum(10000000), TaskCreationOptions.AttachedToParent).Start();
+                    new Task(() => res[0] = Sum(1000), TaskCreationOptions.AttachedToParent).Start();
                     new Task(() => res[1] = Sum(200), TaskCreationOptions.AttachedToParent).Start();
                     new Task(() => res[2] = Sum(300), TaskCreationOptions.AttachedToParent).Start();
 

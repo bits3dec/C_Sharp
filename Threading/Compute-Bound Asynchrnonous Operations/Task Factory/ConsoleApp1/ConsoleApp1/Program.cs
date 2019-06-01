@@ -31,6 +31,8 @@ namespace ConsoleApp1
                 for(int i = 0; i < childTasks.Length; ++i)
                     childTasks[i].ContinueWith(t => cts.Cancel(), TaskContinuationOptions.OnlyOnFaulted);
 
+                //This task is created by the task facotry so this is also a child task of task factory sharing the same configuration until we override
+                //We override the CancellationToken to CancellationToken.None because we dont want this task to be cancelled at all
                 tf.ContinueWhenAll(
                     childTasks, 
                     completedTasks => completedTasks.Where(t => t.Status == TaskStatus.RanToCompletion)
@@ -41,6 +43,7 @@ namespace ConsoleApp1
 
             parent.ContinueWith(t => Console.WriteLine("Show exception"), TaskContinuationOptions.OnlyOnFaulted);
 
+            //Start the parent task so it can start its children
             parent.Start();
 
             Console.ReadLine();
